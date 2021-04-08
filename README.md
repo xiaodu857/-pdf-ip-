@@ -18,11 +18,6 @@ xxx.pdf提取内容ip改后127.0.0.1.pdf
 匹配ip规则精准提取ip
 
 
-
-
-
-
-
 import os
 import pdfplumber
 import time
