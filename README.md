@@ -6,6 +6,17 @@ xxx.pdf提取内容ip改后127.0.0.1.pdf
 用法：python pdf-rename.py
 
 
+
+
+
+
+
+
+
+
+
+
+
 实现步骤-思路
 导入模块os
 操作系统接口模块
