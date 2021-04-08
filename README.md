@@ -2,6 +2,8 @@
 例子：
 xxx.pdf提取内容ip改后127.0.0.1.pdf
 
+注意要用python3
+用法：python pdf-rename.py
 
 
 实现步骤-思路
